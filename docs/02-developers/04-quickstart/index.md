@@ -22,9 +22,9 @@ values={[
     title="Vyper Starter Kit"
     subtitle="quickstart"
     color="orange"
-    linkHref="/developers/quickstart/vyper/"
+    linkHref="/developers/quickstart/rootstock-vyper/"
     linkTitle="Use the Kit"
-    description="This starter kit walks through the process of deploying a smart contract to the Rootstock testnet using Python and Web3.py."
+    description="The Rootstock Vyper Starter Kit demonstrates the deployment of smart contracts written in Vyper to the Rootstock network."
   />
   <FilterItem
     value="dynamic, wagmi, advanced"
